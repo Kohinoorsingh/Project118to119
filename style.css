@@ -1,0 +1,27 @@
+body
+{
+ background-color: teal;
+ font-family: 'Dancing Script', cursive;
+ font-size: 30px;
+}
+
+#show_sketch
+{
+    float: right;
+    font-size: 15px !important;
+}
+
+#Scire
+{
+   float: left;
+}
+
+#Tomer
+{
+    float: right;
+}
+
+#skitch_to_draw
+{
+    color: pink;
+}
